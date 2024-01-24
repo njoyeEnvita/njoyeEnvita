@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @njoyeEnvita
 - 👀 I’m interested in learning how to make life easier with technology
 - 🌱 I’m currently learning Azure
-- 💞️ I’m looking to collaborate on web application projects
+- 💞️ I’m enjoy developing web applications
 - 📫 How to reach me nicolasj@envita.com
 - ⚡ Fun fact: Attended Coding Dojo Software Development Bootcamp
 
